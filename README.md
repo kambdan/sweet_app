@@ -1,3 +1,3 @@
-Esta es una demo de sweet app
+# Flutter Sweet App
 
-![Demo de sweet app](assets/app.png)
+<img src="assets/app.png" alt="UI" width="250"/>
